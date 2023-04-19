@@ -1,0 +1,5 @@
+geopandas
+notebook
+kaggle
+plotly
+matplotlib
