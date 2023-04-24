@@ -3,3 +3,4 @@ notebook
 kaggle
 plotly
 matplotlib
+folium
